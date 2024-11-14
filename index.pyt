@@ -4,3 +4,5 @@ t = [[[['black', 'cyan'], 'white', ['green', 'red']], [['magenta',
 
 print("")
 print("фиыв свсысы")
+print("dsvsvs")
+МИИТТ
